@@ -1,0 +1,48 @@
+body {
+	background-image: url("https://www.creativefabrica.com/wp-content/uploads/2021/08/14/happy-birthday-background-Graphics-15859919-1.jpg");
+}
+.first {
+	color: purple;
+	font-weight: bold;
+}
+.second {
+	color: orange;
+	font-style: italic;
+	font-weight: normal;
+	letter-spacing: 1px;
+	word-spacing: -4px;
+}
+.smile {
+	border-radius: 50%;
+}
+.bg-yellow {
+	background: #fff9dc;
+	max-width: 18.4%;
+	padding: 7.5px 10px;
+	border-radius: 20%;
+}
+.bg-red {
+	background: #ffe5e5;
+	max-width: 19.6%;
+	padding: 7.5px 10px;
+	border-radius: 35%;
+}
+.bg-green {
+	background: #e5ffe7;
+	max-width: 8.1%;
+	padding: 7.5px 10px;
+	border-radius: 50%;
+}
+a {
+	color: purple;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	color: gold;
+}
+a:visited {
+	color:silver;
+}
